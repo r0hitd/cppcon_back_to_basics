@@ -102,7 +102,7 @@ Learn practical object-oriented design: balancing dynamic virtual functions agai
 
 ## 4. Move Semantics, Value Categories & Parameter Forwarding
 
-Move semantics is a core pillar of modern C++ performance optimization. These talks cover everything from basic rvalue references ($\text{T}\&\&$) to expression value categories and perfect forwarding rules.
+Move semantics is a core pillar of modern C++ performance optimization. These talks cover everything from basic rvalue references to expression value categories and perfect forwarding rules.
 
 | Rating & Metrics | Talk Title & Link | Speaker | Year | Primary Pedagogical Focus |  
 | :--- | :--- | :--- | :--- | :--- |  
@@ -182,7 +182,8 @@ If you prefer to follow the evolution of the CppCon **Back to Basics** track yea
 
 ## 🤝 Contributing & Suggestions
 
-Have you watched a CppCon Back to Basics talk that completely changed how you write code? Contributions are welcome! 
+Have you watched a CppCon Back to Basics talk that completely changed how you write code? 
+Contributions are welcome! 
 
 ⭐ **If you find this repository helpful for your interview prep or daily C++ development, please consider giving it a star!**
 
@@ -194,7 +195,7 @@ To help you prioritize your study time, each talk is rated out of **10.0** using
 
 * **Engagement Rate (Like-to-View Ratio):** Evaluates audience satisfaction by comparing total likes to view counts. Higher ratios indicate high utility and retention.  
 * **Pedagogical Clarity:** Assesses the speaker's ability to deconstruct complex computer science paradigms into intuitive, digestible concepts.  
-* **Modern C++ Relevance:** Weights heavily toward talks that emphasize modern standards ($C++17$, $C++20$, $C++23$) and steer clear of deprecated or unsafe idioms.  
+* **Modern C++ Relevance:** Weights heavily toward talks that emphasize modern standards `(C++17, C++20, C++23)` and steer clear of deprecated or unsafe idioms.  
 * **Interview & Production Practicality:** Measures how directly the concepts translate to real-world software engineering, codebases, and technical interview scenarios.
 
 ---
